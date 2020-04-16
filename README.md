@@ -1,4 +1,4 @@
-## Show Case
+## Showcase
 
 Showcase of past and ongoing my personal projects.
 
@@ -51,7 +51,7 @@ Programing is like painting, what you don’t paint is as important as what you 
 #### What makes this project unique?
 
 - Writing great Unit Tests by Mocking External APIs
-- Crafting High Performace REST API Endpoints (query optimized + free of bottlenecks + + Load & Performance Test verified by [APIFORTRESS](https://apifortress.com)
+- Crafting High Performace REST API Endpoints (query optimized + bottlenecks inspected + Load & Performance Test verified by [APIFORTRESS](https://apifortress.com)
 
 ## Credits
 
